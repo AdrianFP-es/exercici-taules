@@ -1,4 +1,25 @@
-#pati{
-    background-color: #E2EEE6;
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
     text-align: center;
+}
+
+caption {
+    margin-bottom: 10px;
+}
+
+#pati {
+    background-color: #e2efda;
+}
+
+#taller {
+    background-color: #E1ECF8;
+}
+
+#projecte {
+    background-color: #EEE5F5;
 }
